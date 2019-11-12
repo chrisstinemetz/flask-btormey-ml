@@ -9,6 +9,9 @@ python:
 service:
   - postgresql
 
+addons:
+    postgresql: '11.5'
+
 before_install:
   - export APP_SETTINGS="project.server.config.TestingConfig"
   - export SECRET_KEY="justatest"
