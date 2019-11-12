@@ -1,5 +1,6 @@
 # Flask JSON Web Token Auth
 
+[![Build Status](https://travis-ci.com/chrisstinemetz/flask-btormey-ml.svg?branch=master)](https://travis-ci.com/chrisstinemetz/flask-btormey-ml)
 
 ## Want to use this project?
 
